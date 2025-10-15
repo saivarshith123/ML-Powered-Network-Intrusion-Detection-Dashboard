@@ -193,7 +193,7 @@ The project architecture is logically separated into two distinct phases.
 *   Ensure all dependencies are installed and the training script has been run.
     
 *   ```bash
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
 
 📈 8. Performance and Results
