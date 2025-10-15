@@ -1,8 +1,7 @@
 🛡️ ML-Powered Network Intrusion Detection Dashboard
 ====================================================
 
-\[!\[Python Version\]\[python-shield\]\]\[python-url\]\[!\[Streamlit Version\]\[streamlit-shield\]\]\[streamlit-url\]\[!\[Scikit-learn Version\]\[sklearn-shield\]\]\[sklearn-url\]\[!\[License: MIT\]\[license-shield\]\]\[license-url\]
-
+![alt text](image.png)
 > A comprehensive and interactive web dashboard for real-time analysis and detection of network intrusions using classical machine learning algorithms on the benchmark NSL-KDD dataset.
 
 This project provides an end-to-end solution, from data preprocessing and model training to a fully functional and user-friendly Streamlit application that can classify network traffic as 'Normal' or 'Attack'.
