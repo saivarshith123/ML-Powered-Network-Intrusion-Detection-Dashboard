@@ -33,7 +33,7 @@ ORIGINAL_CATEGORICAL_COLS = ['protocol_type', 'service', 'flag']
 
 # --- Main Page Layout ---
 
-st.title("🌐 Network Intrusion Detection Dashboard")
+st.title("🌐 Network Intrusion Detection")
 st.write("Upload a CSV file to analyze network traffic and get a real-time prediction summary.")
 
 # --- Create a two-column layout ---
